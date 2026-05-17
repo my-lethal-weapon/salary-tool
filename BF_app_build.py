@@ -1,3 +1,5 @@
+# 給与明細自動作成アプリ　テスト版
+
 import os
 import sys
 import shutil
